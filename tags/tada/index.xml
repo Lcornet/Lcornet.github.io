@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TADA on Luc Cornet</title>
-    <link>http://localhost:1313/tags/tada/</link>
+    <link>https://lcornet.github.io/tags/tada/</link>
     <description>Recent content in TADA on Luc Cornet</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tada/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lcornet.github.io/tags/tada/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publication 7</title>
-      <link>http://localhost:1313/publications/pub7/</link>
+      <link>https://lcornet.github.io/publications/pub7/</link>
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/pub7/</guid>
+      <guid>https://lcornet.github.io/publications/pub7/</guid>
       <description>&lt;p&gt;Résumé de la publication 1.&#xA;XXX&#xA;XXX&lt;/p&gt;</description>
     </item>
   </channel>

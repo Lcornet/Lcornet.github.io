@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Luc Cornet</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://lcornet.github.io/tags/</link>
     <description>Recent content in Tags on Luc Cornet</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lcornet.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data</title>
-      <link>http://localhost:1313/tags/data/</link>
+      <link>https://lcornet.github.io/tags/data/</link>
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/data/</guid>
+      <guid>https://lcornet.github.io/tags/data/</guid>
       <description></description>
     </item>
     <item>
       <title>Science</title>
-      <link>http://localhost:1313/tags/science/</link>
+      <link>https://lcornet.github.io/tags/science/</link>
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/science/</guid>
+      <guid>https://lcornet.github.io/tags/science/</guid>
       <description></description>
     </item>
     <item>
       <title>TADA</title>
-      <link>http://localhost:1313/tags/tada/</link>
+      <link>https://lcornet.github.io/tags/tada/</link>
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tada/</guid>
+      <guid>https://lcornet.github.io/tags/tada/</guid>
       <description></description>
     </item>
   </channel>
