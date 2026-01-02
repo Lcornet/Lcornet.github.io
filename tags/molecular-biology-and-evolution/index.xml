@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Molecular Biology and Evolution on Luc Cornet</title>
+    <link>http://localhost:1313/tags/molecular-biology-and-evolution/</link>
+    <description>Recent content in Molecular Biology and Evolution on Luc Cornet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/molecular-biology-and-evolution/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rapid Radiations Outweigh Reticulations During the Evolution of a 750-Million-Year-Old Lineage of Cyanobacteria </title>
+      <link>http://localhost:1313/publications/carlos2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/carlos2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Carlos J Pardo-De la Hoz , Diane L Haughland , Darcie Thauvette , Sydney Toni , Spencer Goyette , William White , Ian D Medeiros , Luc Cornet , Petr Dvořák , Diego Garfias-Gallegos , Jolanta Miadlikowska , Nicolas Magain , François Lutzoni&lt;/strong&gt;&lt;br&gt;&#xA;Species are a fundamental unit of biodiversity. Yet, the existence of clear species boundaries among bacteria has long been a subject of debate. Here, we studied species boundaries in the context of the phylogenetic history of Nostoc, a widespread genus of photoautotrophic and nitrogen-fixing cyanobacteria that includes many lineages that form symbiotic associations with plants (e.g. cycads and bryophytes) and fungi (e.g. cyanolichens). We found that the evolution of Nostoc was characterized by eight rapid radiations, many of which were associated with major events in the evolution of plants. In addition, incomplete lineage sorting associated with these rapid radiations outweighed reticulations during Nostoc evolution. We then show that the pattern of diversification of Nostoc shapes the distribution of average nucleotide identities (ANIs) into a complex mosaic, wherein some closely related clades are clearly isolated from each other by gaps in genomic similarity, while others form a continuum where genomic species boundaries are expected. Nevertheless, recently diverged Nostoc lineages often form cohesive clades that are maintained by within-clade gene flow. Boundaries to homologous recombination between these cohesive clades persist even when the potential for gene flow is high, i.e. when closely related clades of Nostoc co-occur or are locally found in symbiotic associations with the same lichen-forming fungal species. Our results demonstrate that rapid radiations are major contributors to the complex speciation history of Nostoc. This underscores the need to consider evolutionary information beyond thresholds of genomic similarity to delimit biologically meaningful units of biodiversity for bacteria.&lt;br&gt;&#xA;&lt;a href=&#34;https://doi.org/10.1093/molbev/msaf244&#34;&gt;https://doi.org/10.1093/molbev/msaf244&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

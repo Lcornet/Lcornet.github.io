@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oxygenic Photosynthesis on Luc Cornet</title>
+    <link>https://lcornet.github.io/tags/oxygenic-photosynthesis/</link>
+    <description>Recent content in Oxygenic Photosynthesis on Luc Cornet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://lcornet.github.io/tags/oxygenic-photosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OR-OX-PHOT-IN-CYN</title>
+      <link>https://lcornet.github.io/projects/pdr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lcornet.github.io/projects/pdr/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://lcornet.github.io/images/pdr.jpg&#34; alt=&#34;pdr&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This two-year project (2024–2026) aims to bridge the evolutionary gap between photoautotrophic cyanobacteria and their chemoheterotrophic outgroups. We pursue two interdependent objectives. First, we will investigate the emergence of oxygenic photosynthesis by building on key observations in both groups: (a) the capacity of cyanobacteria to survive under heterotrophic or mixotrophic growth conditions, and (b) the presence in Vampirivibriona of individual genes belonging to four of the five known classes of carbon-concentrating mechanisms (CCMs), which are in principle associated with autotrophy. Second, we will expand the phylogenetic diversity of cyanobacteria and their outgroups by (a) sequencing new strains obtained from culture collections, selected based on the phylogenetic placement of their SSU rRNA genes, and (b) mining public SRA datasets to recover new metagenome-assembled genomes (MAGs) of basal cyanobacteria and related outgroups.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diversity Estimation on Luc Cornet</title>
+    <link>https://lcornet.github.io/tags/diversity-estimation/</link>
+    <description>Recent content in Diversity Estimation on Luc Cornet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://lcornet.github.io/tags/diversity-estimation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ORPER: A Workflow for Constrained SSU rRNA Phylogenies</title>
+      <link>https://lcornet.github.io/publications/orper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lcornet.github.io/publications/orper/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Luc Cornet, Anne-Catherine Ahn, Annick Wilmotte, and Denis Baurain&lt;/strong&gt;&lt;br&gt;&#xA;he continuous increase in sequenced genomes in public repositories makes the choice of interesting bacterial strains for future sequencing projects ever more complicated, as it is difficult to estimate the redundancy between these strains and the already available genomes. Therefore, we developed the Nextflow workflow “ORPER”, for “ORganism PlacER”, containerized in Singularity, which allows the determination the phylogenetic position of a collection of organisms in the genomic landscape. ORPER constrains the phylogenetic placement of SSU (16S) rRNA sequences in a multilocus reference tree based on ribosomal protein genes extracted from public genomes. We demonstrate the utility of ORPER on the Cyanobacteria phylum, by placing 152 strains of the BCCM/ULC collection.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A constrained SSU-rRNA phylogeny reveals the unsequenced diversity of photosynthetic Cyanobacteria (Oxyphotobacteria)</title>
+      <link>https://lcornet.github.io/publications/ssu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lcornet.github.io/publications/ssu/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Luc Cornet, Annick Wilmotte, Emmanuelle J. Javaux and Denis Baurain&lt;/strong&gt;&lt;br&gt;&#xA;Cyanobacteria are an ancient phylum of prokaryotes that contain the class Oxyphotobacteria. This group has been extensively studied by phylogenomics notably because it is widely accepted that Cyanobacteria were responsible for the spread of photosynthesis to the eukaryotic domain. The aim of this study was to evaluate the fraction of the oxyphotobacterial diversity for which sequenced genomes are available for genomic studies. For this, we built a phylogenomic-constrained SSU rRNA (16S) tree to pinpoint unexploited clusters of Oxyphotobacteria that should be targeted for future genome sequencing, so as to improve our understanding of Oxyphotobacteria evolution.&lt;br&gt;&#xA;&lt;a href=&#34;https://link.springer.com/article/10.1186/s13104-018-3543-y&#34;&gt;https://link.springer.com/article/10.1186/s13104-018-3543-y&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

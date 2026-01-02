@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Int Journal of Systematic and Evolutionary Microbiology on Luc Cornet</title>
+    <link>http://localhost:1313/tags/int-journal-of-systematic-and-evolutionary-microbiology/</link>
+    <description>Recent content in Int Journal of Systematic and Evolutionary Microbiology on Luc Cornet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/int-journal-of-systematic-and-evolutionary-microbiology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Melissospora conviva gen. nov., sp. nov., a novel actinobacterial genus isolated from beehive through cross-feeding interactions</title>
+      <link>http://localhost:1313/publications/rigali2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/rigali2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Déborah Tellatin, Luc Cornet, Valdes Snauwaert​, Philippe Compère, Marc Ongena​, Loïc Quinton, Nudzejma Stulanovic, Silvia Ribeiro Monteiro, Augustin Rigolet, Pierre Burguet, Petra Van Damme, Lorena Carro and Sébastien Rigali&lt;/strong&gt;&lt;br&gt;&#xA;Most micro-organisms remain unculturable under standard laboratory conditions, limiting our understanding of microbial diversity and ecological interactions. One major cause of this uncultivability is the loss of access to essential cross-fed metabolites when bacteria are removed from their natural communities. During a bioprospecting campaign targeting actinomycetes of an Apis mellifera beehive, we identified five isolates (DT32, DT45T, DT55, DT59 and DT194) that required co-cultivation for growth recovery, suggesting a dependence on microbial interactions in their native habitat. Whole-genome sequencing and phylogenetic analysis positioned these isolates within a distinct lineage of Micromonosporaceae, separate from the five officially recognized clades of the Micromonospora genus. A combination of microscopic, chemotaxonomic and physiological characterizations further supported their uniqueness. Notably, they exhibited high auxotrophy, being unable to use all carbon sources tested, likely due to genome reduction (4.6 Mbp) compared to other Micromonosporaceae. Pangenomic comparisons with their closest Micromonospora relatives revealed gene losses in key metabolic pathways, including the glyoxylate bypass and the Entner–Doudoroff pathway, which may explain their metabolic reliance. These findings reveal a highly specialized, ecologically adapted lineage with deep evolutionary divergence and further support microbial interdependence isolation strategies to explore the microbial dark matter. We propose Melissospora conviva as a novel genus and species within the Actinomycetota phylum, with isolate DT45T as the representative type species and type strain, which has been deposited in public collections under the accession numbers DSM 117791 and LMG 33580.&lt;br&gt;&#xA;&lt;a href=&#34;https://doi.org/10.1099/ijsem.0.006868&#34;&gt;https://doi.org/10.1099/ijsem.0.006868&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

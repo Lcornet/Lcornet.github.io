@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genes on Luc Cornet</title>
+    <link>http://localhost:1313/tags/genes/</link>
+    <description>Recent content in Genes on Luc Cornet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/genes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ORPER: A Workflow for Constrained SSU rRNA Phylogenies</title>
+      <link>http://localhost:1313/publications/orper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/orper/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Luc Cornet, Anne-Catherine Ahn, Annick Wilmotte, and Denis Baurain&lt;/strong&gt;&lt;br&gt;&#xA;he continuous increase in sequenced genomes in public repositories makes the choice of interesting bacterial strains for future sequencing projects ever more complicated, as it is difficult to estimate the redundancy between these strains and the already available genomes. Therefore, we developed the Nextflow workflow “ORPER”, for “ORganism PlacER”, containerized in Singularity, which allows the determination the phylogenetic position of a collection of organisms in the genomic landscape. ORPER constrains the phylogenetic placement of SSU (16S) rRNA sequences in a multilocus reference tree based on ribosomal protein genes extracted from public genomes. We demonstrate the utility of ORPER on the Cyanobacteria phylum, by placing 152 strains of the BCCM/ULC collection.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

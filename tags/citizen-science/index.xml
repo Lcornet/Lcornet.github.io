@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Citizen-Science on Luc Cornet</title>
+    <link>https://lcornet.github.io/tags/citizen-science/</link>
+    <description>Recent content in Citizen-Science on Luc Cornet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://lcornet.github.io/tags/citizen-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Citizen Science project: the quest for new basal cyanobacteria in cave</title>
+      <link>https://lcornet.github.io/citizen/citizen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lcornet.github.io/citizen/citizen/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://lcornet.github.io/images/citizen.jpg&#34; alt=&#34;citizen&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Oxygenic photosynthesis is a biochemical process of fundamental importance for life on Earth, as it converts solar energy into chemical energy while releasing oxygen. This process emerged more than 2.4 billion years ago within cyanobacteria, a group of bacteria that subsequently colonized a wide range of terrestrial and aquatic habitats.&lt;/p&gt;&#xA;&lt;p&gt;Cyanobacteria are responsible for a substantial fraction of global photosynthesis, notably through their presence in marine phytoplankton. Among extant cyanobacteria, there is a very primitive group known as the Gloeobacterales, which is distinguished by the absence of thylakoids, an intracellular structure essential for photosynthesis in most cyanobacteria. This absence makes Gloeobacterales an important source of information for understanding the origin and evolution of oxygenic photosynthesis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Despite their importance, cyanobacteria are underrepresented in evolutionary studies</title>
+      <link>https://lcornet.github.io/citizen/barplot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lcornet.github.io/citizen/barplot/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://lcornet.github.io/images/barplot.jpg&#34; alt=&#34;barplot&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;We retrieved the abstracts of studies involving cyanobacteria published between 2020 and 2024 and analyzed them using the BART large language model, based on a predefined set of keywords (see figure legend). This analysis indicates that the evolutionary aspects of cyanobacteria are the least studied, regardless of the year considered. In contrast, blooms and public health are the most represented research areas. The fundamental importance of cyanobacteria—particularly their role in the emergence of oxygenic photosynthesis, which was essential for the formation of the biosphere as we know it—remains largely overlooked compared to the negative aspects of cyanobacteria, such as toxicity, which is relatively rare from a taxonomic perspective. Beyond providing new strains for isolation, a citizen science project also offers an opportunity to raise awareness of the evolutionary importance of cyanobacteria.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to participate</title>
+      <link>https://lcornet.github.io/citizen/howto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lcornet.github.io/citizen/howto/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://lcornet.github.io/images/citizenbox.jpg&#34; alt=&#34;citizenbox&#34;&gt;&#xA;&lt;img src=&#34;https://lcornet.github.io/images/sampling.jpg&#34; alt=&#34;sampling&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;To receive your sampling kit and project documentation, please contact Luc Cornet (see the contact section). The kits are generally sent by mail with a pre-printed return label. Sampling should be completed within one month to ensure the viability of the samples. We are particularly interested in caves from Western Europe.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

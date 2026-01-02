@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acta Mycologica on Luc Cornet</title>
+    <link>http://localhost:1313/tags/acta-mycologica/</link>
+    <description>Recent content in Acta Mycologica on Luc Cornet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/acta-mycologica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The unusual Gasteromycetes Lycogalopsis solmsii belongs to the gomphoid-phalloid group.</title>
+      <link>http://localhost:1313/publications/vincent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/vincent/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;VINCENT DEMOULIN, LUC CORNET, EMILIE DELBRUYÈRE and DENIS BAURAIN&lt;/strong&gt;&#xA;The rare tropical Gasteromycetes Lycogalopsis solmsii has been found twice at thirty years interval in the Singapore Botanic Gardens. From the most recent find a culture could be isolated, which allowed DNA extraction and sequencing of about 2000 bp from the nuclear ribosomal DNA. Comparison to a large sample of Basidiomycetes was only possible for a part of the large ribosomal subunit, but clearly indicated affiliation to the gomphoid-phalloid group, without any relationship to Lycoperdales or Agaricales, as stated in the Dictionary of the Fungi.&lt;br&gt;&#xA;&lt;a href=&#34;https://orbi.uliege.be/bitstream/2268/151465/1/Demoulin_et_al_2013_Acta_Mycologica_postprint_editor.pdf&#34;&gt;https://orbi.uliege.be/bitstream/2268/151465/1/Demoulin_et_al_2013_Acta_Mycologica_postprint_editor.pdf&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

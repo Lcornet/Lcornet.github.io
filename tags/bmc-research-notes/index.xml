@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BMC Research Notes on Luc Cornet</title>
+    <link>http://localhost:1313/tags/bmc-research-notes/</link>
+    <description>Recent content in BMC Research Notes on Luc Cornet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/bmc-research-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A constrained SSU-rRNA phylogeny reveals the unsequenced diversity of photosynthetic Cyanobacteria (Oxyphotobacteria)</title>
+      <link>http://localhost:1313/publications/ssu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/ssu/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Luc Cornet, Annick Wilmotte, Emmanuelle J. Javaux and Denis Baurain&lt;/strong&gt;&lt;br&gt;&#xA;Cyanobacteria are an ancient phylum of prokaryotes that contain the class Oxyphotobacteria. This group has been extensively studied by phylogenomics notably because it is widely accepted that Cyanobacteria were responsible for the spread of photosynthesis to the eukaryotic domain. The aim of this study was to evaluate the fraction of the oxyphotobacterial diversity for which sequenced genomes are available for genomic studies. For this, we built a phylogenomic-constrained SSU rRNA (16S) tree to pinpoint unexploited clusters of Oxyphotobacteria that should be targeted for future genome sequencing, so as to improve our understanding of Oxyphotobacteria evolution.&lt;br&gt;&#xA;&lt;a href=&#34;https://link.springer.com/article/10.1186/s13104-018-3543-y&#34;&gt;https://link.springer.com/article/10.1186/s13104-018-3543-y&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

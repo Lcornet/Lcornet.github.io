@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F1000Research on Luc Cornet</title>
+    <link>http://localhost:1313/tags/f1000research/</link>
+    <description>Recent content in F1000Research on Luc Cornet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/f1000research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AMAW: automated gene annotation for non-model eukaryotic genomes</title>
+      <link>http://localhost:1313/publications/amaw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/amaw/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Loïc Meunier, Denis Baurain, Luc Cornet&lt;/strong&gt; &lt;br&gt;&#xA;Background: The annotation of genomes is a crucial step regarding the analysis of new genomic data and resulting insights, and this especially for emerging organisms which allow researchers to access unexplored lineages, so as to expand our knowledge of poorly represented taxonomic groups. Complete pipelines for eukaryotic genome annotation have been proposed for more than a decade, but the issue is still challenging. One of the most widely used tools in the field is MAKER2, an annotation pipeline using experimental evidence (mRNA-seq and proteins) and combining different gene prediction tools. MAKER2 enables individual laboratories and small-scale projects to annotate non-model organisms for which pre-existing gene models are not available. The optimal use of MAKER2 requires gathering evidence data (by searching and assembling transcripts, and/or collecting homologous proteins from related organisms), elaborating the best annotation strategy (training of gene models) and efficiently orchestrating the different steps of the software in a grid computing environment, which is tedious, time-consuming and requires a great deal of bioinformatic skills.&#xA;Methods: To address these issues, we present AMAW (Automated MAKER2 Annotation Wrapper), a wrapper pipeline for MAKER2 that automates the above-mentioned tasks. Importantly, AMAW also exists as a Singularity container recipe easy to deploy on a grid computer, thereby overcoming the tricky installation of MAKER2.&#xA;Use case: The performance of AMAW is illustrated through the annotation of a selection of 32 protist genomes, for which we compared its annotations with those produced with gene models directly available in AUGUSTUS.&#xA;Conclusions: Importantly, AMAW also exists as a Singularity container recipe easy to deploy on a grid computer, thereby overcoming the tricky installation of MAKER2.&lt;br&gt;&#xA;&lt;a href=&#34;https://f1000research.com/articles/12-186&#34;&gt;https://f1000research.com/articles/12-186&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

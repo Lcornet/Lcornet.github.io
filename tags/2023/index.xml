@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2023 on Luc Cornet</title>
+    <link>https://lcornet.github.io/tags/2023/</link>
+    <description>Recent content in 2023 on Luc Cornet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://lcornet.github.io/tags/2023/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ancient Rapid Radiation Explains Most Conflicts Among Gene Trees and Well-Supported Phylogenomic Trees of Nostocalean Cyanobacteria</title>
+      <link>https://lcornet.github.io/publications/carlos1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lcornet.github.io/publications/carlos1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Carlos J Pardo-De la Hoz , Nicolas Magain , Bryan Piatkowski , Luc Cornet , Manuela Dal Forno , Ignazio Carbone , Jolanta Miadlikowska , François Lutzoni&lt;/strong&gt;&lt;br&gt;&#xA;Prokaryotic genomes are often considered to be mosaics of genes that do not necessarily share the same evolutionary history due to widespread horizontal gene transfers (HGTs). Consequently, representing evolutionary relationships of prokaryotes as bifurcating trees has long been controversial. However, studies reporting conflicts among gene trees derived from phylogenomic data sets have shown that these conflicts can be the result of artifacts or evolutionary processes other than HGT, such as incomplete lineage sorting, low phylogenetic signal, and systematic errors due to substitution model misspecification. Here, we present the results of an extensive exploration of phylogenetic conflicts in the cyanobacterial order Nostocales, for which previous studies have inferred strongly supported conflicting relationships when using different concatenated phylogenomic data sets. We found that most of these conflicts are concentrated in deep clusters of short internodes of the Nostocales phylogeny, where the great majority of individual genes have low resolving power. We then inferred phylogenetic networks to detect HGT events while also accounting for incomplete lineage sorting. Our results indicate that most conflicts among gene trees are likely due to incomplete lineage sorting linked to an ancient rapid radiation, rather than to HGTs. Moreover, the short internodes of this radiation fit the expectations of the anomaly zone, i.e., a region of the tree parameter space where a species tree is discordant with its most likely gene tree. We demonstrated that concatenation of different sets of loci can recover up to 17 distinct and well-supported relationships within the putative anomaly zone of Nostocales, corresponding to the observed conflicts among well-supported trees based on concatenated data sets from previous studies. Our findings highlight the important role of rapid radiations as a potential cause of strongly conflicting phylogenetic relationships when using phylogenomic data sets of bacteria. We propose that polytomies may be the most appropriate phylogenetic representation of these rapid radiations that are part of anomaly zones, especially when all possible genomic markers have been considered to infer these phylogenies.&lt;br&gt;&#xA;&lt;a href=&#34;https://doi.org/10.1093/sysbio/syad008&#34;&gt;https://doi.org/10.1093/sysbio/syad008&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The GEN-ERA toolbox: unified and reproducible workflows for research in microbial genomics</title>
+      <link>https://lcornet.github.io/publications/genera/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lcornet.github.io/publications/genera/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Luc Cornet , Benoit Durieu , Frederik Baert , Elizabet D&amp;rsquo;hooge , David Colignon , Loic Meunier , Valérian Lupo , Ilse Cleenwerck , Heide-Marie Daniel , Leen Rigouts , Damien Sirjacobs , Stéphane Declerck , Peter Vandamme , Annick Wilmotte , Denis Baurain and Pierre Becker&lt;/strong&gt;&lt;br&gt;&#xA;Microbial culture collections play a key role in taxonomy by studying the diversity of their strains and providing well-characterized biological material to the scientific community for fundamental and applied research. These microbial resource centers thus need to implement new standards in species delineation, including whole-genome sequencing and phylogenomics. In this context, the genomic needs of the Belgian Coordinated Collections of Microorganisms were studied, resulting in the GEN-ERA toolbox. The latter is a unified cluster of bioinformatic workflows dedicated to both bacteria and small eukaryotes (e.g., yeasts).&lt;br&gt;&#xA;&lt;a href=&#34;https://doi.org/10.1093/gigascience/giad022&#34;&gt;https://doi.org/10.1093/gigascience/giad022&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

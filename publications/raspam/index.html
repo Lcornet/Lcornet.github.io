@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>A FAIR Amplicon Sequencing Workflow for Long-term Environmental Monitoring | Luc Cornet</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="Marie Harmel, Benoit Durieu, Valentina Savaglia, Bjorn Tytgat, Denis Baurain, Annick Wilmotte, Elie Verleyen, Luc Cornet
+Antarctica represents one of the last pristine environments on Earth, providing a unique opportunity to to study the effects of climate change and anthropogenic activities. Ice-free areas, such as the inland nunataks of the Sør Rondane Mountains (SRM), host unique terrestrial and lacustrine ecosystems, of which the simplified food webs rely almost exclusively on microbial primary production. Because of their small size, low productivity and hence low biomass, these microbial communities are fragile. Seven SRM sites were selected to be part of the Antarctic Specially Protected Area (ASPA) 179. The MonASPA project has established an environmental monitoring program to evaluate the effectiveness of the management plan approved by the Antarctic Treaty System for these areas. A key component of MonASPA is the long-term monitoring of microbial biodiversity using 16S rRNA amplicon sequencing. To ensure consistent operation over decades, we developed the Reproducible Amplicon Sequencing Pipeline for Antarctic Monitoring (RASPAM), which is built on Apptainer containers and Nextflow workflows. RASPAM implements Amplicon Sequence Variants (ASVs) and Zero-radius Operational Taxonomic Units (ZOTUs) to provide high-resolution taxonomic affiliation. It incorporates, in addition to the SILVA database, a taxonomically curated 16S rRNA database for cyanobacteria and enables comparisons against NCBI databases to facilitate the identification of rare prokaryotic strains in environmental samples. RASPAM is Findable, Accessible, Interoperable, and Reproducible (FAIR) and represents a robust tool for long-term monitoring of microbial communities in Antarctic and other extreme environments.
+https://doi.org/10.64898/2025.12.04.692289">
+    <meta name="generator" content="Hugo 0.152.2">
+    
+    
+    
+      <meta name="robots" content="index, follow">
+    
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.efe4d852f731d5d1fbb87718387202a97aafd768cdcdaed0662bbe6982e91824.css" >
+
+
+
+
+    
+
+
+    
+      
+
+    
+
+    
+
+    
+      <link rel="canonical" href="https://lcornet.github.io/publications/raspam/">
+    
+
+    
+    
+    <meta property="og:url" content="https://lcornet.github.io/publications/raspam/">
+  <meta property="og:site_name" content="Luc Cornet">
+  <meta property="og:title" content="A FAIR Amplicon Sequencing Workflow for Long-term Environmental Monitoring">
+  <meta property="og:description" content="Marie Harmel, Benoit Durieu, Valentina Savaglia, Bjorn Tytgat, Denis Baurain, Annick Wilmotte, Elie Verleyen, Luc Cornet
+Antarctica represents one of the last pristine environments on Earth, providing a unique opportunity to to study the effects of climate change and anthropogenic activities. Ice-free areas, such as the inland nunataks of the Sør Rondane Mountains (SRM), host unique terrestrial and lacustrine ecosystems, of which the simplified food webs rely almost exclusively on microbial primary production. Because of their small size, low productivity and hence low biomass, these microbial communities are fragile. Seven SRM sites were selected to be part of the Antarctic Specially Protected Area (ASPA) 179. The MonASPA project has established an environmental monitoring program to evaluate the effectiveness of the management plan approved by the Antarctic Treaty System for these areas. A key component of MonASPA is the long-term monitoring of microbial biodiversity using 16S rRNA amplicon sequencing. To ensure consistent operation over decades, we developed the Reproducible Amplicon Sequencing Pipeline for Antarctic Monitoring (RASPAM), which is built on Apptainer containers and Nextflow workflows. RASPAM implements Amplicon Sequence Variants (ASVs) and Zero-radius Operational Taxonomic Units (ZOTUs) to provide high-resolution taxonomic affiliation. It incorporates, in addition to the SILVA database, a taxonomically curated 16S rRNA database for cyanobacteria and enables comparisons against NCBI databases to facilitate the identification of rare prokaryotic strains in environmental samples. RASPAM is Findable, Accessible, Interoperable, and Reproducible (FAIR) and represents a robust tool for long-term monitoring of microbial communities in Antarctic and other extreme environments.
+https://doi.org/10.64898/2025.12.04.692289">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="publications">
+    <meta property="article:tag" content="2025">
+    <meta property="article:tag" content="Cyanobacteria">
+
+  <meta itemprop="name" content="A FAIR Amplicon Sequencing Workflow for Long-term Environmental Monitoring">
+  <meta itemprop="description" content="Marie Harmel, Benoit Durieu, Valentina Savaglia, Bjorn Tytgat, Denis Baurain, Annick Wilmotte, Elie Verleyen, Luc Cornet
+Antarctica represents one of the last pristine environments on Earth, providing a unique opportunity to to study the effects of climate change and anthropogenic activities. Ice-free areas, such as the inland nunataks of the Sør Rondane Mountains (SRM), host unique terrestrial and lacustrine ecosystems, of which the simplified food webs rely almost exclusively on microbial primary production. Because of their small size, low productivity and hence low biomass, these microbial communities are fragile. Seven SRM sites were selected to be part of the Antarctic Specially Protected Area (ASPA) 179. The MonASPA project has established an environmental monitoring program to evaluate the effectiveness of the management plan approved by the Antarctic Treaty System for these areas. A key component of MonASPA is the long-term monitoring of microbial biodiversity using 16S rRNA amplicon sequencing. To ensure consistent operation over decades, we developed the Reproducible Amplicon Sequencing Pipeline for Antarctic Monitoring (RASPAM), which is built on Apptainer containers and Nextflow workflows. RASPAM implements Amplicon Sequence Variants (ASVs) and Zero-radius Operational Taxonomic Units (ZOTUs) to provide high-resolution taxonomic affiliation. It incorporates, in addition to the SILVA database, a taxonomically curated 16S rRNA database for cyanobacteria and enables comparisons against NCBI databases to facilitate the identification of rare prokaryotic strains in environmental samples. RASPAM is Findable, Accessible, Interoperable, and Reproducible (FAIR) and represents a robust tool for long-term monitoring of microbial communities in Antarctic and other extreme environments.
+https://doi.org/10.64898/2025.12.04.692289">
+  <meta itemprop="wordCount" content="250">
+  <meta itemprop="keywords" content="2025,Cyanobacteria">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="A FAIR Amplicon Sequencing Workflow for Long-term Environmental Monitoring">
+  <meta name="twitter:description" content="Marie Harmel, Benoit Durieu, Valentina Savaglia, Bjorn Tytgat, Denis Baurain, Annick Wilmotte, Elie Verleyen, Luc Cornet
+Antarctica represents one of the last pristine environments on Earth, providing a unique opportunity to to study the effects of climate change and anthropogenic activities. Ice-free areas, such as the inland nunataks of the Sør Rondane Mountains (SRM), host unique terrestrial and lacustrine ecosystems, of which the simplified food webs rely almost exclusively on microbial primary production. Because of their small size, low productivity and hence low biomass, these microbial communities are fragile. Seven SRM sites were selected to be part of the Antarctic Specially Protected Area (ASPA) 179. The MonASPA project has established an environmental monitoring program to evaluate the effectiveness of the management plan approved by the Antarctic Treaty System for these areas. A key component of MonASPA is the long-term monitoring of microbial biodiversity using 16S rRNA amplicon sequencing. To ensure consistent operation over decades, we developed the Reproducible Amplicon Sequencing Pipeline for Antarctic Monitoring (RASPAM), which is built on Apptainer containers and Nextflow workflows. RASPAM implements Amplicon Sequence Variants (ASVs) and Zero-radius Operational Taxonomic Units (ZOTUs) to provide high-resolution taxonomic affiliation. It incorporates, in addition to the SILVA database, a taxonomically curated 16S rRNA database for cyanobacteria and enables comparisons against NCBI databases to facilitate the identification of rare prokaryotic strains in environmental samples. RASPAM is Findable, Accessible, Interoperable, and Reproducible (FAIR) and represents a robust tool for long-term monitoring of microbial communities in Antarctic and other extreme environments.
+https://doi.org/10.64898/2025.12.04.692289">
+
+      
+      
+    
+	
+  </head><body class="ma0 avenir bg-near-white production">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l center items-center justify-between">
+    <a href="/" class="f3 fw2 hover-white white-90 dib no-underline">
+      
+        Luc Cornet
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/cv/" title="CV page">
+              CV
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/publications/" title="Publications page">
+              Publications
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/projects/" title="Projects page">
+              Projects
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/citizen/" title="Citizen-Science page">
+              Citizen-Science
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/basal/" title="BASAL-team page">
+              BASAL-team
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/join/" title="Join-us page">
+              Join-us
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/contact/" title="Contact page">
+              Contact
+            </a>
+          </li>
+          
+        </ul>
+      
+      <div class="ananke-socials"></div>
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l mw7 center ph3 flex-wrap justify-between">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked ttu">
+          
+        Publications
+      </aside><div id="sharing" class="mt3 ananke-socials"></div>
+<h1 class="f1 athelas mt3 mb1">A FAIR Amplicon Sequencing Workflow for Long-term Environmental Monitoring</h1>
+      
+      
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-100-l"><p><strong>Marie Harmel, Benoit Durieu, Valentina Savaglia, Bjorn Tytgat, Denis Baurain, Annick Wilmotte, Elie Verleyen, Luc Cornet</strong><br>
+Antarctica represents one of the last pristine environments on Earth, providing a unique opportunity to to study the effects of climate change and anthropogenic activities. Ice-free areas, such as the inland nunataks of the Sør Rondane Mountains (SRM), host unique terrestrial and lacustrine ecosystems, of which the simplified food webs rely almost exclusively on microbial primary production. Because of their small size, low productivity and hence low biomass, these microbial communities are fragile. Seven SRM sites were selected to be part of the Antarctic Specially Protected Area (ASPA) 179. The MonASPA project has established an environmental monitoring program to evaluate the effectiveness of the management plan approved by the Antarctic Treaty System for these areas. A key component of MonASPA is the long-term monitoring of microbial biodiversity using 16S rRNA amplicon sequencing. To ensure consistent operation over decades, we developed the Reproducible Amplicon Sequencing Pipeline for Antarctic Monitoring (RASPAM), which is built on Apptainer containers and Nextflow workflows. RASPAM implements Amplicon Sequence Variants (ASVs) and Zero-radius Operational Taxonomic Units (ZOTUs) to provide high-resolution taxonomic affiliation. It incorporates, in addition to the SILVA database, a taxonomically curated 16S rRNA database for cyanobacteria and enables comparisons against NCBI databases to facilitate the identification of rare prokaryotic strains in environmental samples. RASPAM is Findable, Accessible, Interoperable, and Reproducible (FAIR) and represents a robust tool for long-term monitoring of microbial communities in Antarctic and other extreme environments.<br>
+<a href="https://doi.org/10.64898/2025.12.04.692289">https://doi.org/10.64898/2025.12.04.692289</a></p>
+<ul class="pa0">
+  
+   <li class="list di">
+     <a href="/tags/2025/" class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline">2025</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/cyanobacteria/" class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline">Cyanobacteria</a>
+   </li>
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div></article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="https://lcornet.github.io/" >
+    &copy;  Luc Cornet 2026 
+  </a>
+    <div><div class="ananke-socials"></div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>

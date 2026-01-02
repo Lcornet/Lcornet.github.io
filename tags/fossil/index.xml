@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fossil on Luc Cornet</title>
+    <link>https://lcornet.github.io/tags/fossil/</link>
+    <description>Recent content in Fossil on Luc Cornet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://lcornet.github.io/tags/fossil/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyanobacteria evolution: Insight from the fossil record</title>
+      <link>https://lcornet.github.io/publications/fossil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lcornet.github.io/publications/fossil/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Catherine F. Demoulin, Yannick J. Lara, Luc Cornet, Camille François, Denis Baurain, Annick Wilmotte, Emmanuelle J. Javaux&lt;/strong&gt;&lt;br&gt;&#xA;Cyanobacteria played an important role in the evolution of Early Earth and the biosphere. They are responsible for the oxygenation of the atmosphere and oceans since the Great Oxidation Event around 2.4 Ga, debatably earlier. They are also major primary producers in past and present oceans, and the ancestors of the chloroplast. Nevertheless, the identification of cyanobacteria in the early fossil record remains ambiguous because the morphological criteria commonly used are not always reliable for microfossil interpretation. Recently, new biosignatures specific to cyanobacteria were proposed. Here, we review the classic and new cyanobacterial biosignatures. We also assess the reliability of the previously described cyanobacteria fossil record and the challenges of molecular approaches on modern cyanobacteria. Finally, we suggest possible new calibration points for molecular clocks, and strategies to improve our understanding of the timing and pattern of the evolution of cyanobacteria and oxygenic photosynthesis.&lt;br&gt;&#xA;&lt;a href=&#34;https://doi.org/10.1016/j.freeradbiomed.2019.05.007&#34;&gt;https://doi.org/10.1016/j.freeradbiomed.2019.05.007&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

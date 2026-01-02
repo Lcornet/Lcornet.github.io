@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PeerJ on Luc Cornet</title>
+    <link>http://localhost:1313/tags/peerj/</link>
+    <description>Recent content in PeerJ on Luc Cornet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/peerj/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ToRQuEMaDA: tool for retrieving queried Eubacteria, metadata and dereplicating assemblies</title>
+      <link>http://localhost:1313/publications/torque/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/torque/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Raphaël R. Léonard, Marie Leleu, Mick Van Vlierberghe, Luc Cornet, Frédéric Kerff, Denis Baurain​&lt;/strong&gt;&lt;br&gt;&#xA;TQMD is a tool for high-performance computing clusters which downloads, stores and produces lists of dereplicated prokaryotic genomes. It has been developed to counter the ever-growing number of prokaryotic genomes and their uneven taxonomic distribution. It is based on word-based alignment-free methods (k-mers), an iterative single-linkage approach and a divide-and-conquer strategy to remain both efficient and scalable. We studied the performance of TQMD by verifying the influence of its parameters and heuristics on the clustering outcome. We further compared TQMD to two other dereplication tools (dRep and Assembly-Dereplicator). Our results showed that TQMD is primarily optimized to dereplicate at higher taxonomic levels (phylum/class), as opposed to the other dereplication tools, but also works at lower taxonomic levels (species/strain) like the other dereplication tools. TQMD is available from source and as a Singularity container at [https://bitbucket.org/phylogeno/tqmd ].&lt;br&gt;&#xA;&lt;a href=&#34;https://peerj.com/articles/11348/&#34;&gt;https://peerj.com/articles/11348/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

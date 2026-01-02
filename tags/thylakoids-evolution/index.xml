@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thylakoids Evolution on Luc Cornet</title>
+    <link>https://lcornet.github.io/tags/thylakoids-evolution/</link>
+    <description>Recent content in Thylakoids Evolution on Luc Cornet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://lcornet.github.io/tags/thylakoids-evolution/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On the non-oxygenic origins of thylakoids</title>
+      <link>https://lcornet.github.io/publications/theory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lcornet.github.io/publications/theory/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Luc Cornet&lt;/strong&gt;&lt;br&gt;&#xA;Thylakoid membranes are the site of oxygenic photosynthesis, one of the most important biochemical processes on earth. The ancestral state of these membranes is represented today in Gloeobacterales, where they are lacking and photosynthesis instead takes place in the cytoplasmic membrane. The evolutionary transition from this ancestral state to the modern thylakoid membranes provided a major advantage, as it increased photosynthetic efficiency. However, how this significant transition occurred remains an understudied question. The biogenesis of modern thylakoid membranes relies on a highly synchronized process involving numerous assembly factors and showing important differences between the two photosystems. Together, these features suggest the existence of intermediate evolutionary states during the emergence of this compartment. Here, I propose a non-oxygenic origin of thylakoid membranes, where these intermediate states were initially dedicated to alternative electron flows. This hypothesis further addresses the paradox of cyanobacterial diversification in an euxinic environment, toxic to photosystem II.&lt;br&gt;&#xA;&lt;a href=&#34;https://www.nature.com/articles/s42003-025-09100-w&#34;&gt;https://www.nature.com/articles/s42003-025-09100-w&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Early-Diverging SQR Enzyme in Antarctic Gloeobacterales Indicates Sulfide Tolerance in Thylakoid-Lacking Cyanobacteria</title>
+      <link>https://lcornet.github.io/publications/sqr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lcornet.github.io/publications/sqr/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Louise Hambücken, Edi Sudianto, Jimmy H. Saw, Denis Baurain, Luc Cornet&lt;/strong&gt; &lt;br&gt;&#xA;Oxygenic photosynthesis, which converts solar energy into carbohydrates via a linear electron transport chain and two photosystems (PSII and PSI), first appeared in cyanobacteria approximately 3.3 Ga and drove the Great Oxidation Event around 2.4 Ga. During this period, euxinic conditions—characterized by sulfidic, anoxic oceans—posed a metabolic challenge to cyanobacteria, as sulfide inhibits PSII, the reaction center responsible for water splitting. Here, we report the presence of an early-diverging form of the sulfide quinone reductase (SQR) enzyme in Antarctic representatives of Gloeobacterales, the earliest-branching cyanobacterial lineage lacking thylakoids. Phylogenetic analyses reveal that these SQR sequences are the earliest-diverging cyanobacterial SQR known to date, predating the multiple lateral gene transfer events previously observed in the phylum. Additional searches in metagenomic datasets indicate that such sequences are restricted to cold environments. Our findings unveil possible adaptive strategies of early cyanobacteria to cope with sulfidic stress and point to Antarctic lakes as preserved natural laboratories for investigating cyanobacterial diversification and the evolution of oxygenic photosynthesis under euxinic conditions.&lt;br&gt;&#xA;&lt;a href=&#34;https://doi.org/10.1101/2025.10.24.684318&#34;&gt;https://doi.org/10.1101/2025.10.24.684318&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Horizontal Gene Transfers Underpin Ribose Heterotrophy and Central Carbon Metabolism Remodeling in Gloeobacteraceae</title>
+      <link>https://lcornet.github.io/publications/ribose/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lcornet.github.io/publications/ribose/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Edi Sudianto, Denis Baurain, Luc Cornet&lt;/strong&gt; &lt;br&gt;&#xA;Gloeobacterales has long been considered a “living fossil” cyanobacterial order, owing to its lack of thylakoid membranes and basal phylogenetic position. However, our study reveals that Gloeobacterales actively integrate horizontally transferred genes into their core metabolism. In Gloeobacteraceae—one of the two families within the order—these genes encode a complete ribose ATP synthase binding cassette (ABC) importer and downstream enzymes, enabling the heterotrophic uptake of external ribose and its assimilation into central carbon metabolism, along with photosynthesis, indicative of photomixotrophy. Beyond ribose utilization, their central carbon metabolism exhibits a mosaic architecture shaped by the integration of foreign genes into the Calvin-Benson-Bassham cycle, the pentose phosphate pathway, and the Embden-Meyerhof-Parnas pathway. Uniquely, these genes appear to have been acquired through multiple independent transfer events, as reflected by their dispersed genomic locations and diverse bacterial donors, including other cyanobacteria and Pseudomonadota. These findings contradict the long-standing view of Gloeobacterales as metabolically primitive relics. Instead, Gloeobacterales is likely a dynamic lineage that continues to adapt and evolve through metabolic innovation and the assimilation of foreign genes into its genomes.&lt;br&gt;&#xA;&lt;a href=&#34;https://doi.org/10.1101/2025.11.10.686926&#34;&gt;https://doi.org/10.1101/2025.11.10.686926&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

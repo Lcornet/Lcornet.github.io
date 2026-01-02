@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MSystems on Luc Cornet</title>
+    <link>http://localhost:1313/tags/msystems/</link>
+    <description>Recent content in MSystems on Luc Cornet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/msystems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phylogenomic Analyses of Snodgrassella Isolates from Honeybees and Bumblebees Reveal Taxonomic and Functional Diversity</title>
+      <link>http://localhost:1313/publications/snod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/snod/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Luc Cornet, Ilse Cleenwerck, Jessy Praet, Raphaël R. Leonard, Nicolas J. Vereecken, Denis Michez, Guy Smagghe, Denis Baurain, Peter Vandamme&lt;/strong&gt;&lt;br&gt;&#xA;Snodgrassella is a genus of Betaproteobacteria that lives in the gut of honeybees (Apis spp.) and bumblebees (Bombus spp). It is part of a conserved microbiome that is composed of a few core phylotypes and is essential for bee health and metabolism. Phylogenomic analyses using whole-genome sequences of 75 Snodgrassella strains from 4 species of honeybees and 14 species of bumblebees showed that these strains formed a monophyletic lineage within the Neisseriaceae family, that Snodgrassella isolates from Asian honeybees diverged early from the other species in their evolution, that isolates from honeybees and bumblebees were well separated, and that this genus consists of at least seven species. We propose to formally name two new Snodgrassella species that were isolated from bumblebees: i.e., Snodgrassella gandavensis sp. nov. and Snodgrassella communis sp. nov. Possible evolutionary scenarios for 107 species- or group-specific genes revealed very limited evidence for horizontal gene transfer. Functional analyses revealed the importance of small proteins, defense mechanisms, amino acid transport and metabolism, inorganic ion transport and metabolism and carbohydrate transport and metabolism among these 107 specific genes.&lt;br&gt;&#xA;&lt;a href=&#34;https://doi.org/10.1128/msystems.01500-21&#34;&gt;https://doi.org/10.1128/msystems.01500-21&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FNRS on Luc Cornet</title>
+    <link>https://lcornet.github.io/tags/fnrs/</link>
+    <description>Recent content in FNRS on Luc Cornet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://lcornet.github.io/tags/fnrs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OR-OX-PHOT-IN-CYN</title>
+      <link>https://lcornet.github.io/projects/pdr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lcornet.github.io/projects/pdr/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://lcornet.github.io/images/pdr.jpg&#34; alt=&#34;pdr&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This two-year project (2024–2026) aims to bridge the evolutionary gap between photoautotrophic cyanobacteria and their chemoheterotrophic outgroups. We pursue two interdependent objectives. First, we will investigate the emergence of oxygenic photosynthesis by building on key observations in both groups: (a) the capacity of cyanobacteria to survive under heterotrophic or mixotrophic growth conditions, and (b) the presence in Vampirivibriona of individual genes belonging to four of the five known classes of carbon-concentrating mechanisms (CCMs), which are in principle associated with autotrophy. Second, we will expand the phylogenetic diversity of cyanobacteria and their outgroups by (a) sequencing new strains obtained from culture collections, selected based on the phylogenetic placement of their SSU rRNA genes, and (b) mining public SRA datasets to recover new metagenome-assembled genomes (MAGs) of basal cyanobacteria and related outgroups.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Evol-CM-to-TM</title>
+      <link>https://lcornet.github.io/projects/louise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lcornet.github.io/projects/louise/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://lcornet.github.io/images/louise.jpg&#34; alt=&#34;louise&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Cyanobacteria are the only prokaryotes that perform oxygenic photosynthesis by utilizing two photosystems in their electron transport chain (ETC), with photosystem II (PSII) splitting water molecules. In most cyanobacteria, this process occurs within the membranes of specialized compartments called the thylakoids. The process by which the ETC is integrated into the thylakoids has been studied for certain subunits and involves the coordination of numerous assembly factors, of which only a fraction has been identified so far. In Gloeobacterales, the most basal group of extant cyanobacteria, these photosystems and the ETC are instead integral to the plasma membrane. While recent studies suggest an appearance of oxygenic photosynthesis well before the Great Oxidation Event (GOE), the structural advantages of thylakoids hint to a key role in GOE, though their origin remains unclear. The aim of this project is to test the hypothesis that the emergence of thylakoids is related to anoxygenic photosynthesis and alternative electron flows, conferring an advantage in the photic zone of Proterozoic oceans, where oxic and sulfidic-rich conditions coexisted. In this project, metabolic modelling by flux balance analysis will be used to test hypothetical evolutionary stages of thylakoids in simulated conditions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

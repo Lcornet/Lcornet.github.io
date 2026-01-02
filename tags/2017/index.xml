@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2017 on Luc Cornet</title>
+    <link>https://lcornet.github.io/tags/2017/</link>
+    <description>Recent content in 2017 on Luc Cornet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://lcornet.github.io/tags/2017/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Draft Genome Sequence of the Axenic Strain Phormidesmispriestleyi ULC007, a Cyanobacterium Isolated from Lake Bruehwiler (Larsemann Hills, Antarctica)</title>
+      <link>https://lcornet.github.io/publications/ulc007/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lcornet.github.io/publications/ulc007/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Yannick Lara, Benoit Durieu, Luc Cornet, Olivier Verlaine, Rosmarie Rippka, Igor S. Pessi, Agnieszka Misztak, Bernard Joris, Emmanuelle J. Javaux, Denis Baurain, Annick Wilmotte&lt;/strong&gt;&lt;br&gt;&#xA;Phormidesmis priestleyi ULC007 is an Antarctic freshwater cyanobacterium. Its draft genome is 5,684,389 bp long. It contains a total of 5,604 protein-encoding genes, of which 22.2% have no clear homologues in known genomes. To date, this draft genome is the first one ever determined for an axenic cyanobacterium from Antarctica.&lt;br&gt;&#xA;&lt;a href=&#34;https://doi.org/10.1128/genomea.01546-16&#34;&gt;https://doi.org/10.1128/genomea.01546-16&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

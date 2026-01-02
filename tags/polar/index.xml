@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Polar on Luc Cornet</title>
+    <link>https://lcornet.github.io/tags/polar/</link>
+    <description>Recent content in Polar on Luc Cornet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://lcornet.github.io/tags/polar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Metagenomic assembly of new (sub)polar Cyanobacteria and their associated microbiome from non-axenic cultures</title>
+      <link>https://lcornet.github.io/publications/cyanometa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lcornet.github.io/publications/cyanometa/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Luc Cornet, Amandine R. Bertrand, Marc Hanikenne​, Emmanuelle J. Javaux, Annick Wilmotte​ and Denis Baurain&lt;/strong&gt;&lt;br&gt;&#xA;Cyanobacteria form one of the most diversified phyla of Bacteria. They are important ecologically as primary producers, for Earth evolution and biotechnological applications. Yet, Cyanobacteria are notably difficult to purify and grow axenically, and most strains in culture collections contain heterotrophic bacteria that were probably associated with Cyanobacteria in the environment. Obtaining cyanobacterial DNA without contaminant sequences is thus a challenging and time-consuming task. Here, we describe a metagenomic pipeline that enables the easy recovery of genomes from non-axenic cultures. We tested this pipeline on 17 cyanobacterial cultures from the BCCM/ULC public collection and generated novel genome sequences for 12 polar or subpolar strains and three temperate ones, including three early-branching organisms that will be useful for phylogenomics. In parallel, we assembled 31 co-cultivated bacteria (12 nearly complete) from the same cultures and showed that they mostly belong to Bacteroidetes and Proteobacteria, some of them being very closely related in spite of geographically distant sampling sites.&lt;br&gt;&#xA;&lt;a href=&#34;https://doi.org/10.1099/mgen.0.000212&#34;&gt;https://doi.org/10.1099/mgen.0.000212&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

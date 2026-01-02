@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GenomicContamination on Luc Cornet</title>
+    <link>http://localhost:1313/tags/genomiccontamination/</link>
+    <description>Recent content in GenomicContamination on Luc Cornet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/genomiccontamination/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evaluation of Genomic Contamination Detection Tools and Influence of Horizontal Gene Transfer on Their Efficiency through Contamination Simulations at Various Taxonomic Ranks</title>
+      <link>http://localhost:1313/publications/conta4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/conta4/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Luc Cornet, Valérian Lupo, Stéphane Declerck and Denis Baurain&lt;/strong&gt; &lt;br&gt;&#xA;Genomic contamination remains a pervasive challenge in (meta)genomics, prompting the development of numerous detection tools. Despite the attention that this issue has attracted, a comprehensive comparison of the available tools is absent from the literature. Furthermore, the potential effect of horizontal gene transfer on the detection of genomic contamination has been little studied. In this study, we evaluated the efficiency of detection of six widely used contamination detection tools. To this end, we developed a simulation framework using orthologous group inference as a robust basis for the simulation of contamination. Additionally, we implemented a variable mutation rate to simulate horizontal transfer. Our simulations covered six distinct taxonomic ranks, ranging from phylum to species. The evaluation of contamination levels revealed the suboptimal precision of the tools, attributed to significant cases of both over-detection and under-detection, particularly at the genus and species levels. Notably, only so-called “redundant” contamination was reliably estimated. Our findings underscore the necessity of employing a combination of tools, including Kraken2, for accurate contamination level assessment. We also demonstrate that none of the assayed tools confused contamination and horizontal gene transfer. Finally, we release CRACOT, a freely accessible contamination simulation framework, which holds promise in evaluating the efficacy of future algorithms.&lt;br&gt;&#xA;&lt;a href=&#34;https://doi.org/10.3390/applmicrobiol4010009&#34;&gt;https://doi.org/10.3390/applmicrobiol4010009&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

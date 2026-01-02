@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Molecular Phylogenetics and Evolution on Luc Cornet</title>
+    <link>http://localhost:1313/tags/molecular-phylogenetics-and-evolution/</link>
+    <description>Recent content in Molecular Phylogenetics and Evolution on Luc Cornet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/molecular-phylogenetics-and-evolution/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring syntenic conservation across genomes for phylogenetic studies of organisms subjected to horizontal gene transfers: A case study with Cyanobacteria and cyanolichens</title>
+      <link>http://localhost:1313/publications/lichen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/lichen/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Luc Cornet, Nicolas Magain, Denis Baurain, François Lutzoni&lt;/strong&gt; &lt;br&gt;&#xA;Understanding the evolutionary history of symbiotic Cyanobacteria at a fine scale is essential to unveil patterns of associations with their hosts and factors driving their spatiotemporal interactions. As for bacteria in general, Horizontal Gene Transfers (HGT) are expected to be rampant throughout their evolution, which justified the use of single-locus phylogenies in macroevolutionary studies of these photoautotrophic bacteria. Genomic approaches have greatly increased the amount of molecular data available, but the selection of orthologous, congruent genes that are more likely to reflect bacterial macroevolutionary histories remains problematic. In this study, we developed a synteny-based approach and searched for Collinear Orthologous Regions (COR), under the assumption that genes that are present in the same order and orientation across a wide monophyletic clade are less likely to have undergone HGT. We searched sixteen reference Nostocales genomes and identified 99 genes, part of 28 COR comprising three to eight genes each. We then developed a bioinformatic pipeline, designed to minimize inter-genome contamination and processed twelve Nostoc-associated lichen metagenomes. This reduced our original dataset to 90 genes representing 25 COR, which were used to infer phylogenetic relationships within Nostocales and among lichenized Cyanobacteria. This dataset was narrowed down further to 71 genes representing 22 COR by selecting only genes part of one (largest) operon per COR. We found a relatively high level of congruence among trees derived from the 90-gene dataset, but congruence was only slightly higher among genes within a COR compared to genes across COR. However, topological congruence was significantly higher among the 71 genes part of one operon per COR. Nostocales phylogenies resulting from concatenation and species tree approaches based on the 90- and 71-gene datasets were highly congruent, but the most highly supported result was obtained when using synteny, collinearity, and operon information (i.e., 71-gene dataset) as gene selection criteria, which outperformed larger datasets with more genes.&lt;br&gt;&#xA;&lt;a href=&#34;https://doi.org/10.1016/j.ympev.2021.107100&#34;&gt;https://doi.org/10.1016/j.ympev.2021.107100&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

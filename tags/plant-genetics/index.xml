@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plant Genetics on Luc Cornet</title>
+    <link>https://lcornet.github.io/tags/plant-genetics/</link>
+    <description>Recent content in Plant Genetics on Luc Cornet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://lcornet.github.io/tags/plant-genetics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A BAC-guided haplotype assembly pipeline increases the resolution of the virus resistance locus CMD2 in cassava</title>
+      <link>https://lcornet.github.io/publications/cassava/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lcornet.github.io/publications/cassava/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Luc Cornet, Syed Shan-e-Ali Zaidi, Jia Li, Yvan Ngapout, Sara Shakir, Loic Meunier, Caroline Callot, William Marande, Marc Hanikenne, Stephane Rombauts, Yves Van de Peer &amp;amp; Hervé Vanderschuren&lt;/strong&gt; &lt;br&gt;&#xA;Cassava is an important crop for food security in the tropics where its production is jeopardized by several viral diseases, including the cassava mosaic disease (CMD) which is endemic in Sub-Saharan Africa and the Indian subcontinent. Resistance to CMD is linked to a single dominant locus, namely CMD2. The cassava genome contains highly repetitive regions making the accurate assembly of a reference genome challenging. In the present study, we generate BAC libraries of the CMD-susceptible cassava cultivar (cv.) 60444 and the CMD-resistant landrace TME3. We subsequently identify and sequence BACs belonging to the CMD2 region in both cultivars using high-accuracy long-read PacBio circular consensus sequencing (ccs) reads. We then sequence and assemble the complete genomes of cv. 60444 and TME3 using a combination of ONT ultra-long reads and optical mapping. Anchoring the assemblies on cassava genetic maps reveals discrepancies in our, as well as in previously released, CMD2 regions of the cv. 60444 and TME3 genomes. A BAC-guided approach to assess cassava genome assemblies significantly improves the synteny between the assembled CMD2 regions of cv. 60444 and TME3 and the CMD2 genetic maps. We then performed repeat-unmasked gene annotation on CMD2 assemblies and identify 81 stress resistance proteins present in the CMD2 region, among which 31 were previously not reported in publicly available CMD2 sequences. The BAC-assessed approach improved CMD2 region accuracy and revealed new sequences linked to virus resistance, advancing our understanding of cassava mosaic disease resistance.  &lt;br&gt;&#xA;&lt;a href=&#34;https://link.springer.com/article/10.1186/s13059-025-03620-8&#34;&gt;https://link.springer.com/article/10.1186/s13059-025-03620-8&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

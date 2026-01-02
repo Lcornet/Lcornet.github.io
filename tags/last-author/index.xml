@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Last Author on Luc Cornet</title>
+    <link>http://localhost:1313/tags/last-author/</link>
+    <description>Recent content in Last Author on Luc Cornet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/last-author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On the non-oxygenic origins of thylakoids</title>
+      <link>http://localhost:1313/publications/theory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/theory/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Luc Cornet&lt;/strong&gt;&lt;br&gt;&#xA;Thylakoid membranes are the site of oxygenic photosynthesis, one of the most important biochemical processes on earth. The ancestral state of these membranes is represented today in Gloeobacterales, where they are lacking and photosynthesis instead takes place in the cytoplasmic membrane. The evolutionary transition from this ancestral state to the modern thylakoid membranes provided a major advantage, as it increased photosynthetic efficiency. However, how this significant transition occurred remains an understudied question. The biogenesis of modern thylakoid membranes relies on a highly synchronized process involving numerous assembly factors and showing important differences between the two photosystems. Together, these features suggest the existence of intermediate evolutionary states during the emergence of this compartment. Here, I propose a non-oxygenic origin of thylakoid membranes, where these intermediate states were initially dedicated to alternative electron flows. This hypothesis further addresses the paradox of cyanobacterial diversification in an euxinic environment, toxic to photosystem II.&lt;br&gt;&#xA;&lt;a href=&#34;https://www.nature.com/articles/s42003-025-09100-w&#34;&gt;https://www.nature.com/articles/s42003-025-09100-w&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

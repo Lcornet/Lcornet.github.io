@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bioinformatics on Luc Cornet</title>
+    <link>http://localhost:1313/tags/bioinformatics/</link>
+    <description>Recent content in Bioinformatics on Luc Cornet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Palantir: a springboard for the analysis of secondary metabolite gene clusters in large-scale genome mining projects</title>
+      <link>http://localhost:1313/publications/palantir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/palantir/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Loïc Meunier , Pierre Tocquin , Luc Cornet , Damien Sirjacobs , Valérie Leclère , Maude Pupin , Philippe Jacque sand Denis Baurain&lt;/strong&gt;&lt;br&gt;&#xA;To support small and large-scale genome mining projects, we present Post-processing Analysis tooLbox for ANTIsmash Reports (Palantir), a dedicated software suite for handling and refining secondary metabolite biosynthetic gene cluster (BGC) data annotated with the popular antiSMASH pipeline. Palantir provides new functionalities building on NRPS/PKS predictions from antiSMASH, such as improved BGC annotation, module delineation and easy access to sub-sequences at different levels (cluster, gene, module and domain). Moreover, it can parse user-provided antiSMASH reports and reformat them for direct use or storage in a relational database.&lt;br&gt;&#xA;&lt;a href=&#34;https://doi.org/10.1093/bioinformatics/btaa517&#34;&gt;https://doi.org/10.1093/bioinformatics/btaa517&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

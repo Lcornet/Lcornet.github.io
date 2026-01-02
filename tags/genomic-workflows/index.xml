@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genomic Workflows on Luc Cornet</title>
+    <link>https://lcornet.github.io/tags/genomic-workflows/</link>
+    <description>Recent content in Genomic Workflows on Luc Cornet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://lcornet.github.io/tags/genomic-workflows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The GEN-ERA toolbox: unified and reproducible workflows for research in microbial genomics</title>
+      <link>https://lcornet.github.io/publications/genera/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lcornet.github.io/publications/genera/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Luc Cornet , Benoit Durieu , Frederik Baert , Elizabet D&amp;rsquo;hooge , David Colignon , Loic Meunier , Valérian Lupo , Ilse Cleenwerck , Heide-Marie Daniel , Leen Rigouts , Damien Sirjacobs , Stéphane Declerck , Peter Vandamme , Annick Wilmotte , Denis Baurain and Pierre Becker&lt;/strong&gt;&lt;br&gt;&#xA;Microbial culture collections play a key role in taxonomy by studying the diversity of their strains and providing well-characterized biological material to the scientific community for fundamental and applied research. These microbial resource centers thus need to implement new standards in species delineation, including whole-genome sequencing and phylogenomics. In this context, the genomic needs of the Belgian Coordinated Collections of Microorganisms were studied, resulting in the GEN-ERA toolbox. The latter is a unified cluster of bioinformatic workflows dedicated to both bacteria and small eukaryotes (e.g., yeasts).&lt;br&gt;&#xA;&lt;a href=&#34;https://doi.org/10.1093/gigascience/giad022&#34;&gt;https://doi.org/10.1093/gigascience/giad022&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2022 on Luc Cornet</title>
+    <link>https://lcornet.github.io/tags/2022/</link>
+    <description>Recent content in 2022 on Luc Cornet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://lcornet.github.io/tags/2022/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contamination detection in genomic data: more is not enough</title>
+      <link>https://lcornet.github.io/publications/conta3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lcornet.github.io/publications/conta3/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Luc Cornet and Denis Baurain&lt;/strong&gt;&lt;br&gt;&#xA;The decreasing cost of sequencing and concomitant augmentation of publicly available genomes have created an acute need for automated software to assess genomic contamination. During the last 6 years, 18 programs have been published, each with its own strengths and weaknesses. Deciding which tools to use becomes more and more difficult without an understanding of the underlying algorithms. We review these programs, benchmarking six of them, and present their main operating principles. This article is intended to guide researchers in the selection of appropriate tools for specific applications. Finally, we present future challenges in the developing field of contamination detection.&lt;br&gt;&#xA;&lt;a href=&#34;https://link.springer.com/article/10.1186/s13059-022-02619-9&#34;&gt;https://link.springer.com/article/10.1186/s13059-022-02619-9&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Phylogenomic Analyses of Snodgrassella Isolates from Honeybees and Bumblebees Reveal Taxonomic and Functional Diversity</title>
+      <link>https://lcornet.github.io/publications/snod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lcornet.github.io/publications/snod/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Luc Cornet, Ilse Cleenwerck, Jessy Praet, Raphaël R. Leonard, Nicolas J. Vereecken, Denis Michez, Guy Smagghe, Denis Baurain, Peter Vandamme&lt;/strong&gt;&lt;br&gt;&#xA;Snodgrassella is a genus of Betaproteobacteria that lives in the gut of honeybees (Apis spp.) and bumblebees (Bombus spp). It is part of a conserved microbiome that is composed of a few core phylotypes and is essential for bee health and metabolism. Phylogenomic analyses using whole-genome sequences of 75 Snodgrassella strains from 4 species of honeybees and 14 species of bumblebees showed that these strains formed a monophyletic lineage within the Neisseriaceae family, that Snodgrassella isolates from Asian honeybees diverged early from the other species in their evolution, that isolates from honeybees and bumblebees were well separated, and that this genus consists of at least seven species. We propose to formally name two new Snodgrassella species that were isolated from bumblebees: i.e., Snodgrassella gandavensis sp. nov. and Snodgrassella communis sp. nov. Possible evolutionary scenarios for 107 species- or group-specific genes revealed very limited evidence for horizontal gene transfer. Functional analyses revealed the importance of small proteins, defense mechanisms, amino acid transport and metabolism, inorganic ion transport and metabolism and carbohydrate transport and metabolism among these 107 specific genes.&lt;br&gt;&#xA;&lt;a href=&#34;https://doi.org/10.1128/msystems.01500-21&#34;&gt;https://doi.org/10.1128/msystems.01500-21&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

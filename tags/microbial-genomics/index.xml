@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microbial Genomics on Luc Cornet</title>
+    <link>http://localhost:1313/tags/microbial-genomics/</link>
+    <description>Recent content in Microbial Genomics on Luc Cornet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/microbial-genomics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The taxonomy of the Trichophyton rubrum complex: a phylogenomic approach</title>
+      <link>http://localhost:1313/publications/trico/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/trico/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Luc Cornet​, Elizabet D&amp;rsquo;hooge, Nicolas Magain, Dirk Stubbe​, Ann Packeu, Denis Baurain, and Pierre Becker&lt;/strong&gt;&lt;br&gt;&#xA;The medically relevant Trichophyton rubrum species complex has a variety of phenotypic presentations but shows relatively little genetic differences. Conventional barcodes, such as the internal transcribed spacer (ITS) region or the beta-tubulin gene, are not able to completely resolve the relationships between these closely related taxa. T. rubrum, T. soudanense and T. violaceum are currently accepted as separate species. However, the status of certain variants, including the T. rubrum morphotypes megninii and kuryangei and the T. violaceum morphotype yaoundei, remains to be deciphered. We conducted the first phylogenomic analysis of the T. rubrum species complex by studying 3105 core genes of 18 new strains from the BCCM/IHEM culture collection and nine publicly available genomes. Our analyses revealed a highly resolved phylogenomic tree with six separate clades. Trichophyton rubrum, T. violaceum and T. soudanense were confirmed in their status of species. The morphotypes T. megninii, T. kuryangei and T. yaoundei all grouped in their own respective clade with high support, suggesting that these morphotypes should be reinstituted to the species-level. Robinson-Foulds distance analyses showed that a combination of two markers (a ubiquitin-protein transferase and a MYB DNA-binding domain-containing protein) can mirror the phylogeny obtained using genomic data, and thus represent potential new markers to accurately distinguish the species belonging to the T. rubrum complex.&lt;br&gt;&#xA;&lt;a href=&#34;https://doi.org/10.1099/mgen.0.000707&#34;&gt;https://doi.org/10.1099/mgen.0.000707&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
