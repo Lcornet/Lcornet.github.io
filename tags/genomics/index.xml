@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Genomics on Luc Cornet</title>
-    <link>https://lcornet.github.io/tags/genomics/</link>
+    <link>http://localhost:1313/tags/genomics/</link>
     <description>Recent content in Genomics on Luc Cornet</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://lcornet.github.io/tags/genomics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/genomics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GEN-ERA</title>
-      <link>https://lcornet.github.io/projects/genera/</link>
+      <link>http://localhost:1313/projects/genera/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lcornet.github.io/projects/genera/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://lcornet.github.io/images/genera.jpg&#34; alt=&#34;genera&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The GEN-ERA project, which ran from 2020 to 2022, aimed to establish reproducible genomics practices within the Belgian Coordinated Collections of Microorganisms (BCCM). To achieve this goal, a toolbox consisting of 14 Nextflow workflows, each relying on a dedicated Singularity container, was developed. This toolbox addresses the main needs of scientists working in genomics: downloading data, assembling and binning (meta)genomes from short or long reads, as well as performing orthologous inference and maximum-likelihood phylogenomic analyses with bootstrap and jackknife support. Constrained SSU rRNA phylogenies, guided by ribosomal phylogenomics, can also be inferred. In addition, the toolbox includes workflows for average nucleotide identity calculations, GTDB-based taxonomic identification, and metabolic modelling. Since the end of the initial project, GEN-ERA has been actively maintained and has recently been refinanced for a further four-year period (2026–2030), notably to expand and strengthen its functional genomics component.&lt;br&gt;&#xA;&lt;a href=&#34;https://github.com/Lcornet/GENERA&#34;&gt;https://github.com/Lcornet/GENERA&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/genera/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/genera.jpg&#34; alt=&#34;genera&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The GEN-ERA project, which ran from 2020 to 2022, aimed to establish reproducible genomics practices within the Belgian Coordinated Collections of Microorganisms (BCCM). To achieve this goal, a toolbox consisting of 14 Nextflow workflows, each relying on a dedicated Singularity container, was developed. This toolbox addresses the main needs of scientists working in genomics: downloading data, assembling and binning (meta)genomes from short or long reads, as well as performing orthologous inference and maximum-likelihood phylogenomic analyses with bootstrap and jackknife support. Constrained SSU rRNA phylogenies, guided by ribosomal phylogenomics, can also be inferred. In addition, the toolbox includes workflows for average nucleotide identity calculations, GTDB-based taxonomic identification, and metabolic modelling. Since the end of the initial project, GEN-ERA has been actively maintained and has recently been refinanced for a further four-year period (2026–2030), notably to expand and strengthen its functional genomics component.&lt;br&gt;&#xA;&lt;a href=&#34;https://github.com/Lcornet/GENERA&#34;&gt;https://github.com/Lcornet/GENERA&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
